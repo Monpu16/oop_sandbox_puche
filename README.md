@@ -24,3 +24,5 @@ import numpy as np
 import pandas as pd
 ```
 I am adding one line 
+
+Pre imagen de abierto es abierto
